@@ -1,3 +1,4 @@
+package edu.dio.banco;
 
 public interface IConta {
 	

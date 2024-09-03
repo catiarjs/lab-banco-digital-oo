@@ -1,3 +1,5 @@
+package edu.dio.banco;
+import edu.dio.cliente.Cliente;
 
 public abstract class Conta implements IConta {
 	
